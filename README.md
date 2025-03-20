@@ -1,2 +1,2 @@
 # Kahramanmaras-Teknokent-Scrapper
-###Kahramanmaraş teknokent için basit bir scrapper
+### Kahramanmaraş teknokent için basit bir scrapper
