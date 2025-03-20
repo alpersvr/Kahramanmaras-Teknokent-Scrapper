@@ -1,0 +1,1 @@
+# Kahramanmaras-Teknokent-Scrapping
